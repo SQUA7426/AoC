@@ -1,5 +1,12 @@
 # Ignore everything
 *
+### scala ###
+.bsp
+
+### metals ###
+.metals/
+.scala-build/
+.scalafmt.conf
 
 # Keep *.scala and *.txt
 !*.scala
