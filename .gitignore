@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Keep *.scala and *.txt
+!*.scala
+!*.txt
+
+# Keep .gitignore
+!.gitignore
